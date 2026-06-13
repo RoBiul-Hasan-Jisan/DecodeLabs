@@ -1,0 +1,40 @@
+{
+  "greetings": [
+    "Hello there! How can I help you today?",
+    "Hi! Great to see you!",
+    "Hey! What brings you here today?"
+  ],
+  "how_are_you": [
+    "I'm just a bunch of rules, but I'm functioning perfectly! 😄",
+    "Running on pure logic and doing great! Thanks for asking!",
+    "All systems operational! How about you?"
+  ],
+  "name_question": [
+    "I'm DecodeBot, your rule-based assistant.",
+    "They call me DecodeBot - here to help with my if-else brain!",
+    "I'm DecodeBot, version 1.0. No deep learning here, just pure logic!"
+  ],
+  "help": [
+    "I can greet you, tell you my name, answer simple questions, and respond to thanks.",
+    "Try saying: 'hello', 'how are you', 'what is your name', or 'thanks'",
+    "Commands I understand: greetings, how are you, name, help, thank you, bye"
+  ],
+  "thanks": [
+    "You're most welcome!",
+    "Happy to help!",
+    "My pleasure!"
+  ],
+  "weather": [
+    "I don't have access to weather data yet. I'm just a rule-based bot!",
+    "Weather checking requires API integration. For now, look outside! 🌤️"
+  ],
+  "time": [
+    "I can't tell time yet. My world runs on if-else statements!",
+    "Time? All I know is it's always bot o'clock! ⏰"
+  ],
+  "funny": [
+    "Why did the programmer quit his job? Because he didn't get arrays! 😂",
+    "What's a computer's favorite beat? An algorithm! 🎵"
+  ],
+  "default": "I'm not sure how to respond to that yet. Try saying 'hello' or 'help'."
+}
